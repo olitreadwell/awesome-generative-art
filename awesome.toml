@@ -1,0 +1,45 @@
+# Configuration for this awesome list. Everything the engine needs
+# beyond README.md lives here.
+
+name = "Awesome Generative Art"
+repo_slug = "awesome-generative-art"
+readme = "README.md"
+badge = "default"
+
+sections = [
+    "Tools",
+    "Learning Resources",
+    "Websites",
+    "Selected artists",
+    "Communities",
+    "Video Channels",
+    "Work",
+    "Events",
+    "Press",
+]
+
+[site]
+# The template has no site generator yet, so this stays off.
+enabled = false
+
+[links]
+archive = "off"
+exclude = []
+# Five links stay on plain http because https does not work or the page moved.
+# ptahi.ru and csounds.com answer on http only. The CoGe VJ page, the modul8.ch
+# host, and one lulu.com product page are gone: imimot.com and garagecube.com
+# are still up, so a maintainer may want to repoint or drop those entries.
+allowlist = [
+    "http://imimot.com/cogevj/",
+    "http://ptahi.ru/2016/02/07/programming-for-artists/",
+    "http://www.csounds.com/",
+    "http://www.modul8.ch/",
+    "http://www.lulu.com/shop/andres-wanner/processing-eine-einf%C3%BChrung-in-die-programmierung-version-11/paperback/product-12095647.html",
+]
+
+[github]
+stats = true
+max_age_days = 14
+
+[tags]
+# This list carries no tag vocabulary, so every entry opts out of tags.

@@ -1,0 +1,170 @@
+section,group,name,url,description,tags,stars,last_push,line
+Tools,,vvvv,https://vvvv.org/,[Win].,,,,34
+Tools,,Touch designer,https://www.derivative.ca/,"[Mac, Win].",,,,35
+Tools,,Max,https://cycling74.com/products/max/,"[Mac, Win].",,,,36
+Tools,,Pure Data,https://puredata.info/,"[Mac, Win, Linux].",,,,37
+Tools,,Quartz Composer,https://developer.apple.com/library/content/documentation/GraphicsImaging/Conceptual/QuartzComposerUserGuide/qc_intro/qc_intro.html,[Mac].,,,,38
+Tools,,Vuo,https://vuo.org/,[Mac].,,,,39
+Tools,,Processing,https://processing.org/,"[Mac, Win, Linux, Android].",,,,43
+Tools,,Processing Python Mode,https://py.processing.org/,"[Mac, Win, Linux].",,,,44
+Tools,,OpenFrameworks,https://openframeworks.cc/,"[Mac, Win, Linux, iOS, Android].",,,,45
+Tools,,Cinder,https://libcinder.org/,"[Mac, Win, Linux, iOS, Android].",,,,46
+Tools,,three.js,https://threejs.org/,[Web].,,,,47
+Tools,,Paper.js,https://paperjs.org/,[Web].,,,,48
+Tools,,p5.js,https://p5js.org/,[Web].,,,,49
+Tools,,Scriptographer,https://scriptographer.org/,,,,,50
+Tools,,Unity,https://unity3d.com/,"[Mac, Win].",,,,51
+Tools,,KodeLife,https://hexler.net/software/kodelife,"[Mac, Win, Linux].",,,,52
+Tools,,VDMX,https://vidvox.net/,[Mac].,,,,56
+Tools,,Resolume,https://resolume.com/,"[Mac, Win].",,,,57
+Tools,,Modul8,http://www.modul8.ch/,[Mac].,,,,58
+Tools,,CoGe VJ,http://imimot.com/cogevj/,[Mac].,,,,59
+Tools,,MadMapper,https://www.madmapper.com/,[Mac].,,,,60
+Tools,,Mitti,https://imimot.com/mitti/,[Mac].,,,,61
+Tools,,TouchViZ,https://hexler.net/software/touchviz,[iOS].,,,,62
+Tools,,DXV codec,https://resolume.com/download/,"[Mac, Win].",,,,66
+Tools,,HAP codec,https://github.com/Vidvox/hap-qt-codec,"[Mac, Win]",,201,,67
+Tools,,Vezér,https://imimot.com/vezer/,[Mac].,,,,71
+Tools,,Ableton Live,https://www.ableton.com/,"[Mac, Win].",,,,72
+Tools,,D3,https://www.d3technologies.com/,,,,,73
+Tools,,SuperCollider,https://supercollider.sourceforge.net/,"[Mac, Win, Linux].",,,,77
+Tools,,Csound,http://www.csounds.com/,"[Mac, Win, Linux, iOS, Android, Web].",,,,78
+Tools,,ChucK,https://chuck.cs.princeton.edu/,"[Mac, Win, Linux].",,,,79
+Tools,,TidalCycles,https://tidalcycles.org/,"[Mac, Win, Linux].",,,,80
+Tools,,Sonic Pi,https://sonic-pi.net/,"[Mac, Win, Linux, Raspberry Pi].",,,,81
+Tools,,Reaktor,https://www.native-instruments.com/en/products/komplete/synths/reaktor-6/,"[Mac, Win].",,,,82
+Tools,,TouchOSC,https://hexler.net/software/touchosc,"[iOS, Android].",,,,86
+Tools,,Syphon,https://syphon.v002.info/,[Mac].,,,,90
+Tools,,Spout,https://spout.zeal.co/,[Win].,,,,91
+Tools,,Arduino,https://www.arduino.cc/,,,,,97
+Tools,,Raspberry Pi,https://www.raspberrypi.org/,,,,,98
+Tools,,Kinect,https://developer.microsoft.com/en-us/windows/kinect,,,,,102
+Tools,,Leap Motion,https://www.leapmotion.com/,,,,,103
+Learning Resources,,New Media Art,https://amzn.to/2nREjXO,[history].,,,,111
+Learning Resources,,Art and Electronic Media,https://amzn.to/2pmAMk1,[history].,,,,112
+Learning Resources,,Aesthetics of Interaction in Digital Art,https://amzn.to/2oAJwAd,[history].,,,,113
+Learning Resources,,Aesthetic Computing,https://amzn.to/2oD6Nof,[history].,,,,114
+Learning Resources,,Internet Art (World of Art),https://amzn.to/2ogksgV,[history].,,,,115
+Learning Resources,,Digital Art (World of Art),https://amzn.to/2ok0AbT,[history].,,,,116
+Learning Resources,,Digital Arts: An Introduction to New Media (Berg New Media Series),https://amzn.to/2pFJ9no,[history].,,,,117
+Learning Resources,,Art Pocket Digital Art,https://amzn.to/2pFIMcm,[history].,,,,118
+Learning Resources,,The World of Digital Art,https://amzn.to/2nRPHmt,[history].,,,,119
+Learning Resources,,"Form+Code in Design, Art, and Architecture",https://amzn.to/2oDxLdS,[history].,,,,120
+Learning Resources,,10 PRINT CHR$(205.5+RND(1)); : GOTO 10,https://amzn.to/2nFocI1,[history].,,,,121
+Learning Resources,,Code as Creative Medium: A Handbook for Computational Art and Design,https://amzn.to/3u96jqD,[history].,,,,122
+Learning Resources,,"Generative Design: Visualize, Program, and Create with JavaScript in p5.js",https://amzn.to/3rbANX6,"[algorithms, processing].",,,,126
+Learning Resources,,"Processing: A Programming Handbook for Visual Designers, Second Edition",https://amzn.to/2oDeB9u,[processing].,,,,127
+Learning Resources,,"Make: Getting Started with Processing, Second Edition",https://amzn.to/2nFfSrv,[processing].,,,,128
+Learning Resources,,Make: Getting Started with p5.js,https://amzn.to/2A4hDte,[p5.js].,,,,129
+Learning Resources,,Make: Getting Started with Processing.py,https://amzn.to/2igtIQT,[processing.py].,,,,130
+Learning Resources,,"Learning Processing, Second Edition: A Beginner's Guide to Programming Images, Animation, and Interaction",https://amzn.to/2nYUijx,[processing].,,,,131
+Learning Resources,,The Nature of Code: Simulating Natural Systems with Processing,https://amzn.to/3Hu4OHH,[processing].,,,,132
+Learning Resources,,Visualizing Data,https://amzn.to/2p2j29Y,,,,,133
+Learning Resources,,The SparkFun Guide to Processing,https://amzn.to/2oEtQOS,,,,,134
+Learning Resources,,Processing: Creative Coding and Generative Art in Processing 2,https://amzn.to/34mOR7q,,,,,135
+Learning Resources,,Processing for Visual Artists: How to Create Expressive Images and Interactive Art,https://amzn.to/2oEdTZ5,[processing].,,,,136
+Learning Resources,,Processing: Creative Coding and Computational Art (Foundation),https://amzn.to/2oEoPpI,[processing].,,,,137
+Learning Resources,,The Essential Guide to Processing for Flash Developers,https://amzn.to/2oErakj,[processing].,,,,138
+Learning Resources,,Programming Interactivity,https://amzn.to/2oK1b8h,,,,,139
+Learning Resources,,Generative Art: A Practical Guide Using Processing,https://amzn.to/3IO3EqG,[processing].,,,,140
+Learning Resources,,Algorithms for Visual Design Using the Processing Language,https://amzn.to/2nc48kO,[processing].,,,,141
+Learning Resources,,Data-driven Graphic Design: Creative Coding for Visual Communication,https://amzn.to/2nYVFib,,,,,142
+Learning Resources,,"Making Things Talk: Using Sensors, Networks, and Arduino to see, hear, and feel your world",https://amzn.to/2oEaeKF,,,,,143
+Learning Resources,,"Making Things See: 3D vision with Kinect, Processing, Arduino, and MakerBot",https://amzn.to/2oEm7QP,,,,,144
+Learning Resources,,Kinect in Motion - Audio and Visual Tracking by Example,https://amzn.to/2ojB2fg,"[kinect, c#].",,,,145
+Learning Resources,,Kinect Hacks: Tips & Tools for Motion and Pattern Detection,https://amzn.to/2oANjO4,"[kinect, processing, openframeworks].",,,,146
+Learning Resources,,Beginning Microsoft Kinect for Windows SDK 2.0: Motion and Depth Sensing for Natural User Interfaces,https://amzn.to/2oDy7Bs,[kinect].,,,,147
+Learning Resources,,Kinect for Windows SDK Programming Guide,https://amzn.to/2oDt8AJ,"[kinect, c#].",,,,148
+Learning Resources,,"Kinect Open Source Programming Secrets: Hacking the Kinect with OpenNI, NITE, and Java",https://amzn.to/2ok5shf,[kinect].,,,,149
+Learning Resources,,Human Gait Recognition Using Body Measures and Joints Angles: A Study Using Microsoft Kinect,https://amzn.to/2oDmxq2,[kinect].,,,,150
+Learning Resources,,Beginning Kinect Programming with the Microsoft Kinect SDK (Expert's Voice in Microsoft),https://amzn.to/2nRIvGY,[kinect].,,,,151
+Learning Resources,,"Arduino and Kinect Projects: Design, Build, Blow Their Minds (Technology in Action)",https://amzn.to/2oDE4yp,"[kinect, arduino].",,,,152
+Learning Resources,,Programming with the Kinect for Windows Software Development Kit (Developer Reference),https://amzn.to/2oASRYZ,"[kinect, c#].",,,,153
+Learning Resources,,Augmented Reality with Kinect,https://amzn.to/2nRIAKD,"[kinect, ar].",,,,154
+Learning Resources,,Meet the Kinect: An Introduction to Programming Natural User Interfaces (Technology in Action),https://amzn.to/2nRWdcQ,[kinect].,,,,155
+Learning Resources,,Hacking the Kinect (Technology in Action),https://amzn.to/2ogm0ru,[kinect].,,,,156
+Learning Resources,,Learning Quartz Composer: A Hands-On Guide to Creating Motion Graphics with Quartz Composer,https://amzn.to/2oNmE2x,[quartz composer].,,,,157
+Learning Resources,,"Rapid Android Development: Build Rich, Sensor-Based Applications with Processing",https://pragprog.com/book/dsproc/rapid-android-development,,,,,158
+Learning Resources,,Processing 2: Creative Programming Cookbook,https://www.packtpub.com/hardware-and-creative/processing-2-creative-programming-cookbook,[processing].,,,,159
+Learning Resources,,Processing 2: Creative Coding Hotshot,https://www.packtpub.com/processing-2-creative-coding-hotshot/book,[processing].,,,,160
+Learning Resources,,Getting Started with Arduino: The Open Source Electronics Prototyping Platform (Make),https://amzn.to/2oD95Uc,,,,,161
+Learning Resources,,"Building Wireless Sensor Networks: with ZigBee, XBee, Arduino, and Processing",https://amzn.to/2oK50ue,,,,,162
+Learning Resources,,Physical Computing: Sensing and Controlling the Physical World with Computers,https://amzn.to/2oE8JMQ,,,,,163
+Learning Resources,,"Analog In, Digital Out: Brendan Dawes on Interaction Design",https://amzn.to/2nFoFtA,,,,,164
+Learning Resources,,Einführung ins Programmieren mit Processing (De),https://www.lulu.com/shop/matthias-wolf/einf%C3%BChrung-ins-programmieren-mit-processing/paperback/product-22054219.html,,,,,165
+Learning Resources,,Processing - eine Einführung in die Programmierung (De),http://www.lulu.com/shop/andres-wanner/processing-eine-einf%C3%BChrung-in-die-programmierung-version-11/paperback/product-12095647.html,,,,,166
+Learning Resources,,Programming for Artists (Ru) FREE,http://ptahi.ru/2016/02/07/programming-for-artists/,,,,,167
+Learning Resources,,The Book of Shaders by Patricio Gonzalez Vivo and Jen Lowe,https://thebookofshaders.com/,,,,,168
+Learning Resources,,Prototyping Interfaces: Interaktives Skizzieren mit vvvv,https://amzn.to/2p7FMJy,[vvvv].,,,,169
+Learning Resources,,"Generative Deep Learning: Teaching Machines to Paint, Write, Compose, and Play",https://amzn.to/33VB6Nb,"[ml, gan].",,,,170
+Learning Resources,,GANs in Action: Deep learning with Generative Adversarial Networks,https://amzn.to/3o5SrtB,"[ml, gan].",,,,171
+Learning Resources,,"Generative AI with Python and TensorFlow 2: Create images, text, and music with VAEs, GANs, LSTMs, Transformer models",https://amzn.to/3AKTbcH,"[ml, gan].",,,,172
+Learning Resources,,Hands-On Image Generation with TensorFlow: A practical guide to generating images and videos using deep learning,https://amzn.to/3AMywVq,"[ml, gan].",,,,173
+Learning Resources,,Generative Art: Algorithms as Artistic Tool (Art & Artists),https://amzn.to/3Geuk2b,,,,,174
+Learning Resources,,Coding Art: The Four Steps to Creative Programming with the Processing Language (Design Thinking),https://amzn.to/3KW5DuF,[processing].,,,,175
+Learning Resources,,Creative Programming for Digital Media & Mobile Apps,https://www.coursera.org/learn/digitalmedia,,,,,179
+Learning Resources,,Interactive Data Visualization with Processing,https://www.lynda.com/Processing-tutorials/Interactive-Data-Visualization-Processing/97578-2.html,,,,,180
+Learning Resources,,Projects for Interactive Data Visualization with Processing,https://www.lynda.com/Processing-tutorials/Projects-Interactive-Data-Visualization-Processing/116952-2.html,,,,,181
+Learning Resources,,openFrameworks Tutorial Series,https://www.youtube.com/watch?v=IKSTo_0pB28&index=51&list=PL4neAtv21WOmrV8z9rSzL20QpdLU1zJLr,,,,,182
+Learning Resources,,Interfacing with the Raspberry Pi,https://www.coursera.org/learn/raspberry-pi-interface,,,,,183
+Learning Resources,,Getting started with Augmented Reality,https://www.coursera.org/learn/augmented-reality,,,,,184
+Learning Resources,,Creative Coding,https://www.futurelearn.com/courses/creative-coding/,,,,,185
+Learning Resources,,Survey of Music Technology,https://www.coursera.org/learn/music-technology,,,,,186
+Learning Resources,,Learn to Code Electronic Music Tools with Javascript,https://www.futurelearn.com/courses/electronic-music-tools,,,,,187
+Learning Resources,,Machine Learning for Musicians and Artists,https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists/info,[ml].,,,,188
+Learning Resources,,Machine Learning for Artists,https://ml4a.github.io/index/,[ml].,,,,189
+Learning Resources,,Creative Applications of Deep Learning with TensorFlow,https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow/info,[ml].,,,,190
+Learning Resources,,Advanced JS: Natural Simulations,https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations,,,,,191
+Learning Resources,,Pixar in a Box - Effects,https://www.khanacademy.org/partner-content/pixar/effects,,,,,192
+Learning Resources,,Programming MAX: Structuring Interactive Software for Digital Arts,https://online.stanford.edu/course/programming-max-structuring-interactive-software-digital-arts,,,,,193
+Learning Resources,,inconvergent · A Study of Generative Algorithms,https://inconvergent.net/,,,,,194
+Learning Resources,,Building a Real Application With Kinect,https://www.pluralsight.com/courses/building-real-kinect-application,[kinect].,,,,195
+Learning Resources,,Kinect Interaction with WPF and Beyond,https://www.pluralsight.com/courses/using-kinect-interaction-wpf,[kinect].,,,,196
+Learning Resources,,Developing for Leap Motion in C#,https://www.pluralsight.com/courses/developing-leap-motion-csharp,[leap motion].,,,,197
+Learning Resources,,Physics-Based Sound Synthesis for Games and Interactive Systems,https://www.kadenze.com/courses/physics-based-sound-synthesis-for-games-and-interactive-systems-iv/info,"[audio, chuck].",,,,198
+Learning Resources,,Sound Synthesis Using Reaktor,https://www.kadenze.com/courses/sound-synthesis-using-reaktor/info,"[audio, reaktor].",,,,199
+Learning Resources,,The Nature of Code,https://www.kadenze.com/courses/the-nature-of-code-ii/info,[p5.js].,,,,200
+Learning Resources,,Introduction to Programming for Musicians and Digital Artists,https://www.kadenze.com/courses/introduction-to-programming-for-musicians-and-digital-artists/info,"[audio, chuck].",,,,201
+Learning Resources,,Introduction to Programming for the Visual Arts with p5.js,https://www.kadenze.com/courses/introduction-to-programming-for-the-visual-arts-with-p5-js/info,[p5.js].,,,,202
+Learning Resources,,The Arduino Platform and C Programming,https://www.coursera.org/learn/arduino-platform,[arduino].,,,,203
+Learning Resources,,Interfacing with the Arduino,https://www.coursera.org/learn/interface-with-arduino,[arduino].,,,,204
+Learning Resources,,3D Models for Virtual Reality,https://www.coursera.org/learn/3d-models-virtual-reality,"[vr, unity].",,,,205
+Learning Resources,,"Games, Sensors and Media",https://www.coursera.org/learn/games,[ios].,,,,206
+Learning Resources,,How Virtual Reality (VR) Works,https://www.edx.org/course/how-virtual-reality-vr-works-uc-san-diegox-cse165x-0,[vr].,,,,207
+Learning Resources,,Interactive 3D Graphics,https://www.udacity.com/course/interactive-3d-graphics--cs291,"[3d, webgl, three.js].",,,,208
+Websites,,Creative Applications Network,https://creativeapplications.net/,,,,,212
+Websites,,OpenProcessing,https://www.openprocessing.org/,,,,,213
+Websites,,Create Digital Music/Motion,https://cdm.link/,,,,,214
+Websites,,Field,https://www.field.io/,,,,,215
+Websites,,Lumen,https://lumen.club/,,,,,216
+Selected artists,,Featured / United Visual Artists,https://uva.co.uk/,,,,,220
+Selected artists,,Anton Marini aka vade,https://vade.info/,,,,,221
+Selected artists,,Robert Hodgin aka flight404,https://roberthodgin.com/,,,,,222
+Selected artists,,Antivj,https://antivj.com/,,,,,223
+Selected artists,,onformative,https://www.onformative.com/,,,,,224
+Communities,,Generative Art Slack,https://genart.herokuapp.com,,,,,228
+Video Channels,,The Coding Train by Daniel Shiffman,https://www.youtube.com/user/shiffman/featured,,,,,232
+Video Channels,,AUDIO-VISUAL PERFORMANCE,https://vimeo.com/groups/avperformance,,,,,233
+Video Channels,,LeCollagiste VJ group on Vimeo,https://vimeo.com/groups/lecollagiste,,,,,234
+Video Channels,,TouchDesigner group on Vimeo,https://vimeo.com/groups/touchdesigner,,,,,235
+Video Channels,,Processing group on Vimeo,https://vimeo.com/groups/processing,,,,,236
+Video Channels,,MadMapper group on Vimeo,https://vimeo.com/groups/madmapper,,,,,237
+Video Channels,,Syphon group on Vimeo,https://vimeo.com/groups/syphon,,,,,238
+Work,,Job board on creativeapplications.net,https://www.creativeapplications.net/job-board/,,,,,242
+Work,,vj booking,https://www.vjbooking.com/,,,,,243
+Events,,OFFF,https://offf.barcelona/,,,,,247
+Events,,Resonate Festival,https://resonate.io/,,,,,248
+Events,,The Gray Area Festival,https://grayareafestival.io/,,,,,249
+Events,,FIBER Festival,https://2017.fiberfestival.nl/,,,,,250
+Events,,Mapping Festival,https://mappingfestival.com/,,,,,251
+Events,,Eyeo Festival,https://eyeofestival.com/,,,,,252
+Events,,NODE,https://nodeforum.org/,,,,,253
+Events,,MUTEK,https://www.mutek.org/,,,,,254
+Events,,Live Performers Meeting,https://liveperformersmeeting.net/,,,,,255
+Events,,Berlin Atonal,https://berlin-atonal.com/,,,,,256
+Events,,Ars Electronica,https://www.aec.at/news/,,,,,257
+Events,,Signal Festival,https://www.signalfestival.com/,,,,,258
+Events,,La Fête des Lumières,https://www.fetedeslumieres.lyon.fr/en,,,,,259
+Press,,HOLO magazine,https://www.creativeapplications.net/holo/,,,,,263
+Press,,Make magazine,https://makezine.com/,,,,,264
+Press,,The MagPi magazine,https://www.raspberrypi.org/magpi/,,,,,265

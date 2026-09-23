@@ -1,0 +1,1751 @@
+{
+  "name": "Awesome Generative Art",
+  "repo_slug": "awesome-generative-art",
+  "generated_at": "2026-09-23",
+  "entry_count": 169,
+  "sections": [
+    {
+      "name": "Tools",
+      "entries": [
+        {
+          "name": "vvvv",
+          "url": "https://vvvv.org/",
+          "description": "[Win].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 34
+        },
+        {
+          "name": "Touch designer",
+          "url": "https://www.derivative.ca/",
+          "description": "[Mac, Win].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 35
+        },
+        {
+          "name": "Max",
+          "url": "https://cycling74.com/products/max/",
+          "description": "[Mac, Win].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 36
+        },
+        {
+          "name": "Pure Data",
+          "url": "https://puredata.info/",
+          "description": "[Mac, Win, Linux].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 37
+        },
+        {
+          "name": "Quartz Composer",
+          "url": "https://developer.apple.com/library/content/documentation/GraphicsImaging/Conceptual/QuartzComposerUserGuide/qc_intro/qc_intro.html",
+          "description": "[Mac].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 38
+        },
+        {
+          "name": "Vuo",
+          "url": "https://vuo.org/",
+          "description": "[Mac].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 39
+        },
+        {
+          "name": "Processing",
+          "url": "https://processing.org/",
+          "description": "[Mac, Win, Linux, Android].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 43
+        },
+        {
+          "name": "Processing Python Mode",
+          "url": "https://py.processing.org/",
+          "description": "[Mac, Win, Linux].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 44
+        },
+        {
+          "name": "OpenFrameworks",
+          "url": "https://openframeworks.cc/",
+          "description": "[Mac, Win, Linux, iOS, Android].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 45
+        },
+        {
+          "name": "Cinder",
+          "url": "https://libcinder.org/",
+          "description": "[Mac, Win, Linux, iOS, Android].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 46
+        },
+        {
+          "name": "three.js",
+          "url": "https://threejs.org/",
+          "description": "[Web].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 47
+        },
+        {
+          "name": "Paper.js",
+          "url": "https://paperjs.org/",
+          "description": "[Web].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 48
+        },
+        {
+          "name": "p5.js",
+          "url": "https://p5js.org/",
+          "description": "[Web].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 49
+        },
+        {
+          "name": "Scriptographer",
+          "url": "https://scriptographer.org/",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 50
+        },
+        {
+          "name": "Unity",
+          "url": "https://unity3d.com/",
+          "description": "[Mac, Win].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 51
+        },
+        {
+          "name": "KodeLife",
+          "url": "https://hexler.net/software/kodelife",
+          "description": "[Mac, Win, Linux].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 52
+        },
+        {
+          "name": "VDMX",
+          "url": "https://vidvox.net/",
+          "description": "[Mac].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 56
+        },
+        {
+          "name": "Resolume",
+          "url": "https://resolume.com/",
+          "description": "[Mac, Win].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 57
+        },
+        {
+          "name": "Modul8",
+          "url": "http://www.modul8.ch/",
+          "description": "[Mac].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 58
+        },
+        {
+          "name": "CoGe VJ",
+          "url": "http://imimot.com/cogevj/",
+          "description": "[Mac].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 59
+        },
+        {
+          "name": "MadMapper",
+          "url": "https://www.madmapper.com/",
+          "description": "[Mac].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 60
+        },
+        {
+          "name": "Mitti",
+          "url": "https://imimot.com/mitti/",
+          "description": "[Mac].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 61
+        },
+        {
+          "name": "TouchViZ",
+          "url": "https://hexler.net/software/touchviz",
+          "description": "[iOS].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 62
+        },
+        {
+          "name": "DXV codec",
+          "url": "https://resolume.com/download/",
+          "description": "[Mac, Win].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 66
+        },
+        {
+          "name": "HAP codec",
+          "url": "https://github.com/Vidvox/hap-qt-codec",
+          "description": "[Mac, Win]",
+          "tags": [],
+          "group": null,
+          "stars": 201,
+          "last_push": null,
+          "line": 67
+        },
+        {
+          "name": "Vezér",
+          "url": "https://imimot.com/vezer/",
+          "description": "[Mac].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 71
+        },
+        {
+          "name": "Ableton Live",
+          "url": "https://www.ableton.com/",
+          "description": "[Mac, Win].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 72
+        },
+        {
+          "name": "D3",
+          "url": "https://www.d3technologies.com/",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 73
+        },
+        {
+          "name": "SuperCollider",
+          "url": "https://supercollider.sourceforge.net/",
+          "description": "[Mac, Win, Linux].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 77
+        },
+        {
+          "name": "Csound",
+          "url": "http://www.csounds.com/",
+          "description": "[Mac, Win, Linux, iOS, Android, Web].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 78
+        },
+        {
+          "name": "ChucK",
+          "url": "https://chuck.cs.princeton.edu/",
+          "description": "[Mac, Win, Linux].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 79
+        },
+        {
+          "name": "TidalCycles",
+          "url": "https://tidalcycles.org/",
+          "description": "[Mac, Win, Linux].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 80
+        },
+        {
+          "name": "Sonic Pi",
+          "url": "https://sonic-pi.net/",
+          "description": "[Mac, Win, Linux, Raspberry Pi].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 81
+        },
+        {
+          "name": "Reaktor",
+          "url": "https://www.native-instruments.com/en/products/komplete/synths/reaktor-6/",
+          "description": "[Mac, Win].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 82
+        },
+        {
+          "name": "TouchOSC",
+          "url": "https://hexler.net/software/touchosc",
+          "description": "[iOS, Android].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 86
+        },
+        {
+          "name": "Syphon",
+          "url": "https://syphon.v002.info/",
+          "description": "[Mac].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 90
+        },
+        {
+          "name": "Spout",
+          "url": "https://spout.zeal.co/",
+          "description": "[Win].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 91
+        },
+        {
+          "name": "Arduino",
+          "url": "https://www.arduino.cc/",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 97
+        },
+        {
+          "name": "Raspberry Pi",
+          "url": "https://www.raspberrypi.org/",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 98
+        },
+        {
+          "name": "Kinect",
+          "url": "https://developer.microsoft.com/en-us/windows/kinect",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 102
+        },
+        {
+          "name": "Leap Motion",
+          "url": "https://www.leapmotion.com/",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 103
+        }
+      ]
+    },
+    {
+      "name": "Learning Resources",
+      "entries": [
+        {
+          "name": "New Media Art",
+          "url": "https://amzn.to/2nREjXO",
+          "description": "[history].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 111
+        },
+        {
+          "name": "Art and Electronic Media",
+          "url": "https://amzn.to/2pmAMk1",
+          "description": "[history].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 112
+        },
+        {
+          "name": "Aesthetics of Interaction in Digital Art",
+          "url": "https://amzn.to/2oAJwAd",
+          "description": "[history].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 113
+        },
+        {
+          "name": "Aesthetic Computing",
+          "url": "https://amzn.to/2oD6Nof",
+          "description": "[history].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 114
+        },
+        {
+          "name": "Internet Art (World of Art)",
+          "url": "https://amzn.to/2ogksgV",
+          "description": "[history].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 115
+        },
+        {
+          "name": "Digital Art (World of Art)",
+          "url": "https://amzn.to/2ok0AbT",
+          "description": "[history].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 116
+        },
+        {
+          "name": "Digital Arts: An Introduction to New Media (Berg New Media Series)",
+          "url": "https://amzn.to/2pFJ9no",
+          "description": "[history].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 117
+        },
+        {
+          "name": "Art Pocket Digital Art",
+          "url": "https://amzn.to/2pFIMcm",
+          "description": "[history].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 118
+        },
+        {
+          "name": "The World of Digital Art",
+          "url": "https://amzn.to/2nRPHmt",
+          "description": "[history].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 119
+        },
+        {
+          "name": "Form+Code in Design, Art, and Architecture",
+          "url": "https://amzn.to/2oDxLdS",
+          "description": "[history].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 120
+        },
+        {
+          "name": "10 PRINT CHR$(205.5+RND(1)); : GOTO 10",
+          "url": "https://amzn.to/2nFocI1",
+          "description": "[history].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 121
+        },
+        {
+          "name": "Code as Creative Medium: A Handbook for Computational Art and Design",
+          "url": "https://amzn.to/3u96jqD",
+          "description": "[history].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 122
+        },
+        {
+          "name": "Generative Design: Visualize, Program, and Create with JavaScript in p5.js",
+          "url": "https://amzn.to/3rbANX6",
+          "description": "[algorithms, processing].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 126
+        },
+        {
+          "name": "Processing: A Programming Handbook for Visual Designers, Second Edition",
+          "url": "https://amzn.to/2oDeB9u",
+          "description": "[processing].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 127
+        },
+        {
+          "name": "Make: Getting Started with Processing, Second Edition",
+          "url": "https://amzn.to/2nFfSrv",
+          "description": "[processing].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 128
+        },
+        {
+          "name": "Make: Getting Started with p5.js",
+          "url": "https://amzn.to/2A4hDte",
+          "description": "[p5.js].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 129
+        },
+        {
+          "name": "Make: Getting Started with Processing.py",
+          "url": "https://amzn.to/2igtIQT",
+          "description": "[processing.py].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 130
+        },
+        {
+          "name": "Learning Processing, Second Edition: A Beginner's Guide to Programming Images, Animation, and Interaction",
+          "url": "https://amzn.to/2nYUijx",
+          "description": "[processing].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 131
+        },
+        {
+          "name": "The Nature of Code: Simulating Natural Systems with Processing",
+          "url": "https://amzn.to/3Hu4OHH",
+          "description": "[processing].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 132
+        },
+        {
+          "name": "Visualizing Data",
+          "url": "https://amzn.to/2p2j29Y",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 133
+        },
+        {
+          "name": "The SparkFun Guide to Processing",
+          "url": "https://amzn.to/2oEtQOS",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 134
+        },
+        {
+          "name": "Processing: Creative Coding and Generative Art in Processing 2",
+          "url": "https://amzn.to/34mOR7q",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 135
+        },
+        {
+          "name": "Processing for Visual Artists: How to Create Expressive Images and Interactive Art",
+          "url": "https://amzn.to/2oEdTZ5",
+          "description": "[processing].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 136
+        },
+        {
+          "name": "Processing: Creative Coding and Computational Art (Foundation)",
+          "url": "https://amzn.to/2oEoPpI",
+          "description": "[processing].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 137
+        },
+        {
+          "name": "The Essential Guide to Processing for Flash Developers",
+          "url": "https://amzn.to/2oErakj",
+          "description": "[processing].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 138
+        },
+        {
+          "name": "Programming Interactivity",
+          "url": "https://amzn.to/2oK1b8h",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 139
+        },
+        {
+          "name": "Generative Art: A Practical Guide Using Processing",
+          "url": "https://amzn.to/3IO3EqG",
+          "description": "[processing].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 140
+        },
+        {
+          "name": "Algorithms for Visual Design Using the Processing Language",
+          "url": "https://amzn.to/2nc48kO",
+          "description": "[processing].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 141
+        },
+        {
+          "name": "Data-driven Graphic Design: Creative Coding for Visual Communication",
+          "url": "https://amzn.to/2nYVFib",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 142
+        },
+        {
+          "name": "Making Things Talk: Using Sensors, Networks, and Arduino to see, hear, and feel your world",
+          "url": "https://amzn.to/2oEaeKF",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 143
+        },
+        {
+          "name": "Making Things See: 3D vision with Kinect, Processing, Arduino, and MakerBot",
+          "url": "https://amzn.to/2oEm7QP",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 144
+        },
+        {
+          "name": "Kinect in Motion - Audio and Visual Tracking by Example",
+          "url": "https://amzn.to/2ojB2fg",
+          "description": "[kinect, c#].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 145
+        },
+        {
+          "name": "Kinect Hacks: Tips & Tools for Motion and Pattern Detection",
+          "url": "https://amzn.to/2oANjO4",
+          "description": "[kinect, processing, openframeworks].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 146
+        },
+        {
+          "name": "Beginning Microsoft Kinect for Windows SDK 2.0: Motion and Depth Sensing for Natural User Interfaces",
+          "url": "https://amzn.to/2oDy7Bs",
+          "description": "[kinect].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 147
+        },
+        {
+          "name": "Kinect for Windows SDK Programming Guide",
+          "url": "https://amzn.to/2oDt8AJ",
+          "description": "[kinect, c#].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 148
+        },
+        {
+          "name": "Kinect Open Source Programming Secrets: Hacking the Kinect with OpenNI, NITE, and Java",
+          "url": "https://amzn.to/2ok5shf",
+          "description": "[kinect].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 149
+        },
+        {
+          "name": "Human Gait Recognition Using Body Measures and Joints Angles: A Study Using Microsoft Kinect",
+          "url": "https://amzn.to/2oDmxq2",
+          "description": "[kinect].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 150
+        },
+        {
+          "name": "Beginning Kinect Programming with the Microsoft Kinect SDK (Expert's Voice in Microsoft)",
+          "url": "https://amzn.to/2nRIvGY",
+          "description": "[kinect].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 151
+        },
+        {
+          "name": "Arduino and Kinect Projects: Design, Build, Blow Their Minds (Technology in Action)",
+          "url": "https://amzn.to/2oDE4yp",
+          "description": "[kinect, arduino].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 152
+        },
+        {
+          "name": "Programming with the Kinect for Windows Software Development Kit (Developer Reference)",
+          "url": "https://amzn.to/2oASRYZ",
+          "description": "[kinect, c#].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 153
+        },
+        {
+          "name": "Augmented Reality with Kinect",
+          "url": "https://amzn.to/2nRIAKD",
+          "description": "[kinect, ar].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 154
+        },
+        {
+          "name": "Meet the Kinect: An Introduction to Programming Natural User Interfaces (Technology in Action)",
+          "url": "https://amzn.to/2nRWdcQ",
+          "description": "[kinect].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 155
+        },
+        {
+          "name": "Hacking the Kinect (Technology in Action)",
+          "url": "https://amzn.to/2ogm0ru",
+          "description": "[kinect].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 156
+        },
+        {
+          "name": "Learning Quartz Composer: A Hands-On Guide to Creating Motion Graphics with Quartz Composer",
+          "url": "https://amzn.to/2oNmE2x",
+          "description": "[quartz composer].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 157
+        },
+        {
+          "name": "Rapid Android Development: Build Rich, Sensor-Based Applications with Processing",
+          "url": "https://pragprog.com/book/dsproc/rapid-android-development",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 158
+        },
+        {
+          "name": "Processing 2: Creative Programming Cookbook",
+          "url": "https://www.packtpub.com/hardware-and-creative/processing-2-creative-programming-cookbook",
+          "description": "[processing].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 159
+        },
+        {
+          "name": "Processing 2: Creative Coding Hotshot",
+          "url": "https://www.packtpub.com/processing-2-creative-coding-hotshot/book",
+          "description": "[processing].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 160
+        },
+        {
+          "name": "Getting Started with Arduino: The Open Source Electronics Prototyping Platform (Make)",
+          "url": "https://amzn.to/2oD95Uc",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 161
+        },
+        {
+          "name": "Building Wireless Sensor Networks: with ZigBee, XBee, Arduino, and Processing",
+          "url": "https://amzn.to/2oK50ue",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 162
+        },
+        {
+          "name": "Physical Computing: Sensing and Controlling the Physical World with Computers",
+          "url": "https://amzn.to/2oE8JMQ",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 163
+        },
+        {
+          "name": "Analog In, Digital Out: Brendan Dawes on Interaction Design",
+          "url": "https://amzn.to/2nFoFtA",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 164
+        },
+        {
+          "name": "Einführung ins Programmieren mit Processing (De)",
+          "url": "https://www.lulu.com/shop/matthias-wolf/einf%C3%BChrung-ins-programmieren-mit-processing/paperback/product-22054219.html",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 165
+        },
+        {
+          "name": "Processing - eine Einführung in die Programmierung (De)",
+          "url": "http://www.lulu.com/shop/andres-wanner/processing-eine-einf%C3%BChrung-in-die-programmierung-version-11/paperback/product-12095647.html",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 166
+        },
+        {
+          "name": "Programming for Artists (Ru) FREE",
+          "url": "http://ptahi.ru/2016/02/07/programming-for-artists/",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 167
+        },
+        {
+          "name": "The Book of Shaders by Patricio Gonzalez Vivo and Jen Lowe",
+          "url": "https://thebookofshaders.com/",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 168
+        },
+        {
+          "name": "Prototyping Interfaces: Interaktives Skizzieren mit vvvv",
+          "url": "https://amzn.to/2p7FMJy",
+          "description": "[vvvv].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 169
+        },
+        {
+          "name": "Generative Deep Learning: Teaching Machines to Paint, Write, Compose, and Play",
+          "url": "https://amzn.to/33VB6Nb",
+          "description": "[ml, gan].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 170
+        },
+        {
+          "name": "GANs in Action: Deep learning with Generative Adversarial Networks",
+          "url": "https://amzn.to/3o5SrtB",
+          "description": "[ml, gan].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 171
+        },
+        {
+          "name": "Generative AI with Python and TensorFlow 2: Create images, text, and music with VAEs, GANs, LSTMs, Transformer models",
+          "url": "https://amzn.to/3AKTbcH",
+          "description": "[ml, gan].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 172
+        },
+        {
+          "name": "Hands-On Image Generation with TensorFlow: A practical guide to generating images and videos using deep learning",
+          "url": "https://amzn.to/3AMywVq",
+          "description": "[ml, gan].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 173
+        },
+        {
+          "name": "Generative Art: Algorithms as Artistic Tool (Art & Artists)",
+          "url": "https://amzn.to/3Geuk2b",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 174
+        },
+        {
+          "name": "Coding Art: The Four Steps to Creative Programming with the Processing Language (Design Thinking)",
+          "url": "https://amzn.to/3KW5DuF",
+          "description": "[processing].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 175
+        },
+        {
+          "name": "Creative Programming for Digital Media & Mobile Apps",
+          "url": "https://www.coursera.org/learn/digitalmedia",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 179
+        },
+        {
+          "name": "Interactive Data Visualization with Processing",
+          "url": "https://www.lynda.com/Processing-tutorials/Interactive-Data-Visualization-Processing/97578-2.html",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 180
+        },
+        {
+          "name": "Projects for Interactive Data Visualization with Processing",
+          "url": "https://www.lynda.com/Processing-tutorials/Projects-Interactive-Data-Visualization-Processing/116952-2.html",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 181
+        },
+        {
+          "name": "openFrameworks Tutorial Series",
+          "url": "https://www.youtube.com/watch?v=IKSTo_0pB28&index=51&list=PL4neAtv21WOmrV8z9rSzL20QpdLU1zJLr",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 182
+        },
+        {
+          "name": "Interfacing with the Raspberry Pi",
+          "url": "https://www.coursera.org/learn/raspberry-pi-interface",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 183
+        },
+        {
+          "name": "Getting started with Augmented Reality",
+          "url": "https://www.coursera.org/learn/augmented-reality",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 184
+        },
+        {
+          "name": "Creative Coding",
+          "url": "https://www.futurelearn.com/courses/creative-coding/",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 185
+        },
+        {
+          "name": "Survey of Music Technology",
+          "url": "https://www.coursera.org/learn/music-technology",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 186
+        },
+        {
+          "name": "Learn to Code Electronic Music Tools with Javascript",
+          "url": "https://www.futurelearn.com/courses/electronic-music-tools",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 187
+        },
+        {
+          "name": "Machine Learning for Musicians and Artists",
+          "url": "https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists/info",
+          "description": "[ml].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 188
+        },
+        {
+          "name": "Machine Learning for Artists",
+          "url": "https://ml4a.github.io/index/",
+          "description": "[ml].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 189
+        },
+        {
+          "name": "Creative Applications of Deep Learning with TensorFlow",
+          "url": "https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow/info",
+          "description": "[ml].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 190
+        },
+        {
+          "name": "Advanced JS: Natural Simulations",
+          "url": "https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 191
+        },
+        {
+          "name": "Pixar in a Box - Effects",
+          "url": "https://www.khanacademy.org/partner-content/pixar/effects",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 192
+        },
+        {
+          "name": "Programming MAX: Structuring Interactive Software for Digital Arts",
+          "url": "https://online.stanford.edu/course/programming-max-structuring-interactive-software-digital-arts",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 193
+        },
+        {
+          "name": "inconvergent · A Study of Generative Algorithms",
+          "url": "https://inconvergent.net/",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 194
+        },
+        {
+          "name": "Building a Real Application With Kinect",
+          "url": "https://www.pluralsight.com/courses/building-real-kinect-application",
+          "description": "[kinect].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 195
+        },
+        {
+          "name": "Kinect Interaction with WPF and Beyond",
+          "url": "https://www.pluralsight.com/courses/using-kinect-interaction-wpf",
+          "description": "[kinect].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 196
+        },
+        {
+          "name": "Developing for Leap Motion in C#",
+          "url": "https://www.pluralsight.com/courses/developing-leap-motion-csharp",
+          "description": "[leap motion].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 197
+        },
+        {
+          "name": "Physics-Based Sound Synthesis for Games and Interactive Systems",
+          "url": "https://www.kadenze.com/courses/physics-based-sound-synthesis-for-games-and-interactive-systems-iv/info",
+          "description": "[audio, chuck].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 198
+        },
+        {
+          "name": "Sound Synthesis Using Reaktor",
+          "url": "https://www.kadenze.com/courses/sound-synthesis-using-reaktor/info",
+          "description": "[audio, reaktor].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 199
+        },
+        {
+          "name": "The Nature of Code",
+          "url": "https://www.kadenze.com/courses/the-nature-of-code-ii/info",
+          "description": "[p5.js].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 200
+        },
+        {
+          "name": "Introduction to Programming for Musicians and Digital Artists",
+          "url": "https://www.kadenze.com/courses/introduction-to-programming-for-musicians-and-digital-artists/info",
+          "description": "[audio, chuck].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 201
+        },
+        {
+          "name": "Introduction to Programming for the Visual Arts with p5.js",
+          "url": "https://www.kadenze.com/courses/introduction-to-programming-for-the-visual-arts-with-p5-js/info",
+          "description": "[p5.js].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 202
+        },
+        {
+          "name": "The Arduino Platform and C Programming",
+          "url": "https://www.coursera.org/learn/arduino-platform",
+          "description": "[arduino].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 203
+        },
+        {
+          "name": "Interfacing with the Arduino",
+          "url": "https://www.coursera.org/learn/interface-with-arduino",
+          "description": "[arduino].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 204
+        },
+        {
+          "name": "3D Models for Virtual Reality",
+          "url": "https://www.coursera.org/learn/3d-models-virtual-reality",
+          "description": "[vr, unity].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 205
+        },
+        {
+          "name": "Games, Sensors and Media",
+          "url": "https://www.coursera.org/learn/games",
+          "description": "[ios].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 206
+        },
+        {
+          "name": "How Virtual Reality (VR) Works",
+          "url": "https://www.edx.org/course/how-virtual-reality-vr-works-uc-san-diegox-cse165x-0",
+          "description": "[vr].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 207
+        },
+        {
+          "name": "Interactive 3D Graphics",
+          "url": "https://www.udacity.com/course/interactive-3d-graphics--cs291",
+          "description": "[3d, webgl, three.js].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 208
+        }
+      ]
+    },
+    {
+      "name": "Websites",
+      "entries": [
+        {
+          "name": "Creative Applications Network",
+          "url": "https://creativeapplications.net/",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 212
+        },
+        {
+          "name": "OpenProcessing",
+          "url": "https://www.openprocessing.org/",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 213
+        },
+        {
+          "name": "Create Digital Music/Motion",
+          "url": "https://cdm.link/",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 214
+        },
+        {
+          "name": "Field",
+          "url": "https://www.field.io/",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 215
+        },
+        {
+          "name": "Lumen",
+          "url": "https://lumen.club/",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 216
+        }
+      ]
+    },
+    {
+      "name": "Selected artists",
+      "entries": [
+        {
+          "name": "Featured / United Visual Artists",
+          "url": "https://uva.co.uk/",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 220
+        },
+        {
+          "name": "Anton Marini aka vade",
+          "url": "https://vade.info/",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 221
+        },
+        {
+          "name": "Robert Hodgin aka flight404",
+          "url": "https://roberthodgin.com/",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 222
+        },
+        {
+          "name": "Antivj",
+          "url": "https://antivj.com/",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 223
+        },
+        {
+          "name": "onformative",
+          "url": "https://www.onformative.com/",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 224
+        }
+      ]
+    },
+    {
+      "name": "Communities",
+      "entries": [
+        {
+          "name": "Generative Art Slack",
+          "url": "https://genart.herokuapp.com",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 228
+        }
+      ]
+    },
+    {
+      "name": "Video Channels",
+      "entries": [
+        {
+          "name": "The Coding Train by Daniel Shiffman",
+          "url": "https://www.youtube.com/user/shiffman/featured",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 232
+        },
+        {
+          "name": "AUDIO-VISUAL PERFORMANCE",
+          "url": "https://vimeo.com/groups/avperformance",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 233
+        },
+        {
+          "name": "LeCollagiste VJ group on Vimeo",
+          "url": "https://vimeo.com/groups/lecollagiste",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 234
+        },
+        {
+          "name": "TouchDesigner group on Vimeo",
+          "url": "https://vimeo.com/groups/touchdesigner",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 235
+        },
+        {
+          "name": "Processing group on Vimeo",
+          "url": "https://vimeo.com/groups/processing",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 236
+        },
+        {
+          "name": "MadMapper group on Vimeo",
+          "url": "https://vimeo.com/groups/madmapper",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 237
+        },
+        {
+          "name": "Syphon group on Vimeo",
+          "url": "https://vimeo.com/groups/syphon",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 238
+        }
+      ]
+    },
+    {
+      "name": "Work",
+      "entries": [
+        {
+          "name": "Job board on creativeapplications.net",
+          "url": "https://www.creativeapplications.net/job-board/",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 242
+        },
+        {
+          "name": "vj booking",
+          "url": "https://www.vjbooking.com/",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 243
+        }
+      ]
+    },
+    {
+      "name": "Events",
+      "entries": [
+        {
+          "name": "OFFF",
+          "url": "https://offf.barcelona/",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 247
+        },
+        {
+          "name": "Resonate Festival",
+          "url": "https://resonate.io/",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 248
+        },
+        {
+          "name": "The Gray Area Festival",
+          "url": "https://grayareafestival.io/",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 249
+        },
+        {
+          "name": "FIBER Festival",
+          "url": "https://2017.fiberfestival.nl/",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 250
+        },
+        {
+          "name": "Mapping Festival",
+          "url": "https://mappingfestival.com/",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 251
+        },
+        {
+          "name": "Eyeo Festival",
+          "url": "https://eyeofestival.com/",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 252
+        },
+        {
+          "name": "NODE",
+          "url": "https://nodeforum.org/",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 253
+        },
+        {
+          "name": "MUTEK",
+          "url": "https://www.mutek.org/",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 254
+        },
+        {
+          "name": "Live Performers Meeting",
+          "url": "https://liveperformersmeeting.net/",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 255
+        },
+        {
+          "name": "Berlin Atonal",
+          "url": "https://berlin-atonal.com/",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 256
+        },
+        {
+          "name": "Ars Electronica",
+          "url": "https://www.aec.at/news/",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 257
+        },
+        {
+          "name": "Signal Festival",
+          "url": "https://www.signalfestival.com/",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 258
+        },
+        {
+          "name": "La Fête des Lumières",
+          "url": "https://www.fetedeslumieres.lyon.fr/en",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 259
+        }
+      ]
+    },
+    {
+      "name": "Press",
+      "entries": [
+        {
+          "name": "HOLO magazine",
+          "url": "https://www.creativeapplications.net/holo/",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 263
+        },
+        {
+          "name": "Make magazine",
+          "url": "https://makezine.com/",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 264
+        },
+        {
+          "name": "The MagPi magazine",
+          "url": "https://www.raspberrypi.org/magpi/",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 265
+        }
+      ]
+    },
+    {
+      "name": "Contribute",
+      "entries": []
+    },
+    {
+      "name": "Support on Beerpay",
+      "entries": []
+    }
+  ]
+}
