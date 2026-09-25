@@ -2,7 +2,7 @@
 
 This repository is one person's curated list. The rules it follows live in the
 engine at <https://github.com/olitreadwell/awesome-list-template>, and
-`readme.md` is the only source of truth for entries.
+`README.md` is the only source of truth for entries.
 
 ## Before you change anything
 
@@ -29,7 +29,7 @@ make check
 
 ## Layout
 
-- `readme.md` holds the list, the Contents section, and the prose.
+- `README.md` holds the list, the Contents section, and the prose.
 - `tests/test_readme.py` holds the invariants for this particular list.
 - `jobs/links.sh` is the weekly link check, run by launchd from
   `schedule/launchd/links.plist`.
